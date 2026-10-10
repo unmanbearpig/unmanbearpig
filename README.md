@@ -1,9 +1,10 @@
 # Ivan Fedyunin
 
-I'm a senior backend engineer with 15+ years building and running production
-systems, mostly with Ruby on Rails and PostgreSQL. My current product work uses
-Go and Python. I'm looking for backend and product engineering work, especially
-in Go.
+I'm a senior backend engineer with 15+ years in software development, mostly
+with Rails and PostgreSQL, including eight years as ExamSuccess's primary
+developer. I build and run backend systems, data pipelines and web products.
+My current product is HostelPunk, built with Go, Python and PostgreSQL. I'm
+available for backend and product engineering work.
 
 ## Selected work
 
