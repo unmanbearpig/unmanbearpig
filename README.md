@@ -5,6 +5,7 @@ I've been building backends for 15 years. These days it's mostly LLM systems and
 ## Selected work
 
 - [HostelPunk](https://hostelpunk.com/): a hostel search engine. It ranks hostels by what guests write about meeting people and having fun, and AI does all the reading. 74M reviews from four sites, normalized, and 22,600 hostels matched across their catalogs.
+- [T3 Code, my fork](https://github.com/unmanbearpig/t3code-unmbp): I run several Codex and Claude Code sessions at once here. Agents made about 50 changes in three weeks, from CLI-style keyboard control to a WebSocket/WebTransport benchmark on bad networks.
 - [dwl](https://github.com/unmanbearpig/dwl): my fork of a Wayland compositor written in C. Tiled windows share one border instead of each drawing its own. Agents wrote it and tested it with sanitizers against real Wayland and XWayland clients.
 - [claudex-limits](https://github.com/unmanbearpig/claudex-limits): a Go terminal tool for keeping an eye on Codex and Claude usage limits.
 - [unmenu](https://github.com/unmanbearpig/unmenu): a macOS launcher. The fuzzy matcher is Rust, called from Swift over FFI. Based on [dmenu-mac](https://github.com/oNaiPs/dmenu-mac).
